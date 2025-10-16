@@ -1,6 +1,6 @@
 # Sky Mavis
 
-<img src="https://media.licdn.com/dms/image/v2/D563DAQHq-bzDvR8O1A/image-scale_191_1128/image-scale_191_1128/0/1689740629675/skymavis_cover?e=1760400000&v=beta&t=s6o3AfpHUOQYfIpmcns2K03eYTWQOvzqkcmoKXT0V-Q" alt="Sky Mavis Logo" width="100%" height="200vh"/>
+<img src="./skymavis_cover.jpg" alt="Sky Mavis Logo" width="100%" height="200vh"/>
 
 Welcome to Sky Mavis’ Test GitHub!
 This space is dedicated to internal testing, experiments, and prototype development for our blockchain gaming ecosystem.
